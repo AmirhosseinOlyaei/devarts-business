@@ -16,6 +16,7 @@
 | **Nonprofits** | Community organizations with limited budgets | Professional presence, donations |
 | **Bootcamp Graduates** | New developers needing to showcase projects | Land first job, stand out |
 | **Early-Stage Entrepreneurs** | Founders validating ideas | MVP websites, landing pages |
+| **Healthcare & Research Institutions** | Medical researchers, clinical AI teams needing validation infrastructure | AI pipelines, secure cloud deployment, compliance-ready systems |
 
 ---
 

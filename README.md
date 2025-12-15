@@ -120,6 +120,7 @@ To make high-quality digital presence accessible to everyone, regardless of tech
 | **Nonprofits** | Community organizations with limited budgets | Professional presence, donations |
 | **Bootcamp Graduates** | New developers needing to showcase projects | Land first job, stand out |
 | **Early-Stage Entrepreneurs** | Founders validating ideas | MVP websites, landing pages |
+| **Healthcare & Research Institutions** | Medical researchers, clinical AI teams needing validation infrastructure | AI pipelines, secure cloud deployment, compliance-ready systems |
 
 ### 4.3 Competitor Analysis
 
@@ -183,6 +184,7 @@ Many freelancers, small business owners, and early-stage entrepreneurs struggle 
 - **Local small businesses** lacking web presence (restaurants, salons, repair shops)
 - **Nonprofits and early-stage entrepreneurs** with limited budgets
 - **Bootcamp graduates** needing portfolios to land their first jobs
+- **Healthcare & research institutions** needing AI validation infrastructure and secure cloud solutions
 
 ### 7.3 Unique Value Proposition
 

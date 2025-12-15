@@ -22,6 +22,7 @@ Many freelancers, small business owners, and early-stage entrepreneurs struggle 
 - **Local small businesses** lacking web presence (restaurants, salons, repair shops)
 - **Nonprofits and early-stage entrepreneurs** with limited budgets
 - **Bootcamp graduates** needing portfolios to land their first jobs
+- **Healthcare & research institutions** needing AI validation infrastructure and secure cloud solutions
 
 ---
 
